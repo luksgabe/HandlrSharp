@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Authors>Lucas</Authors>
+    <PackageId>HandlrSharp</PackageId>
+    <Description>HandlrSharp: Um mini-mediator open source para .NET</Description>
+  </PropertyGroup>
+
+</Project>

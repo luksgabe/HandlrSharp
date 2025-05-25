@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|d:\\lucas\\meus projetos\\handlrsharp\\src\\handlrsharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|solutionrelative:src\\handlrsharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|d:\\lucas\\meus projetos\\handlrsharp\\src\\handlrsharp\\handlrsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|solutionrelative:src\\handlrsharp\\handlrsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|d:\\lucas\\meus projetos\\handlrsharp\\src\\handlrsharp\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A7B7754-5F9D-EBC8-913A-3DB71CA33E44}|src\\HandlrSharp\\HandlrSharp.csproj|solutionrelative:src\\handlrsharp\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandlrSharp",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\HandlrSharp.csproj",
+              "RelativeDocumentMoniker": "src\\HandlrSharp\\HandlrSharp.csproj",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\HandlrSharp.csproj",
+              "RelativeToolTip": "src\\HandlrSharp\\HandlrSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T03:49:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\README.md",
+              "RelativeDocumentMoniker": "src\\HandlrSharp\\README.md",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\README.md",
+              "RelativeToolTip": "src\\HandlrSharp\\README.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-25T03:48:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\LICENSE",
+              "RelativeDocumentMoniker": "src\\HandlrSharp\\LICENSE",
+              "ToolTip": "D:\\Lucas\\Meus Projetos\\HandlrSharp\\src\\HandlrSharp\\LICENSE",
+              "RelativeToolTip": "src\\HandlrSharp\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T03:48:11.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
